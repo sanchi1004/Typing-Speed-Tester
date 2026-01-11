@@ -2,7 +2,7 @@
 
 A simple and minimal web application to test your typing speed and accuracy in real-time. Made with vanilla HTML, CSS, and JavaScript.
 
-**Live Demo**: [sanchi1004.github.io/WebPDA2](https://sanchi1004.github.io/WebPDA2/)
+**Live Demo**: [https://sanchi1004.github.io/Typing-Speed-Tester/](https://sanchi1004.github.io/Typing-Speed-Tester/))
 
 ---
 
