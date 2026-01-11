@@ -1,5 +1,4 @@
-# WebPDA2
-# ⌨️ Typing Speed Tester
+# Typing Speed Tester
 
 A simple and minimal web application to test your typing speed and accuracy in real-time. Made with vanilla HTML, CSS, and JavaScript.
 
